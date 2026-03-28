@@ -75,7 +75,7 @@ We may update this privacy policy from time to time. Any changes will be reflect
 If you have questions about this privacy policy or how FieldDeck handles your data, please contact:
 
 **Jayaraman Thiagarajan**
-Email: [your-email@example.com]
+Email: [jay@wildlands.ai]
 
 ---
 
